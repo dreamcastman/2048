@@ -16,3 +16,5 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+^Included in the Readme provided by the professor. This was a project in Data Structures class aimed at learning how to use 2D arrays. What I worked on is only the methods in Board.java and the rest was provided.
